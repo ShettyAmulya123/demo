@@ -1,2 +1,2 @@
 # demo
-Exploring things
+Exploring the things
